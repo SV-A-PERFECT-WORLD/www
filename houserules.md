@@ -6,6 +6,11 @@
 
 ## Principles
 
+1. enjoy the wonders of nature
+1. respect the mercilessness of nature
+
+1. respect and maintain the boat
+
 1. we travel with the wind - ABSOLUTELY NO DEADLINES
 1. we create synergy by helping each other
 1. we create synergy by cooking for each other
