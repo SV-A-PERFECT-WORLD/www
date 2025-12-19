@@ -42,6 +42,13 @@
 1. we travel by wind, not by engine
 1. we cannot make reliable schedules for passages
 
+1. we anchor by default (rarery use marinas)
+
+1. we split costs for marinas
+1. we split costs for food on board
+1. we split costs for operating the boat
+1. we apply *social pricing*
+
 1. we don't create traps
 1. we sort everything back into its place after use
 1. we seek efficient procedures
@@ -49,7 +56,7 @@
 1. we use water responsibly
 1. we use energy responsibly
 1. we consume food responsibly
-1. we 
+1. we make best use of available space
 
 1. we follow rules until we improve them
 
@@ -62,7 +69,8 @@
 1. speak your mind, challenge any rule and make a better suggestion
 
 1. crew must be able to set sails, lift anchor and climb on board
-1. we cannot take "tourists" who are on a schedule
+
+1. standard share of operating costs is 10€ per person per day, plus 0.10€ per NM travelled towards an agreed destination
 
 1. come on time for all appointments (shifts...)
 1. bring all your personal stuff (life vest, clothes, snacks...) for your shift to the bridge (no visit to cabin should be necessary)
@@ -78,6 +86,9 @@
 1. cook recipies which preserve resources (water, energy)
 1. cook for each other
 1. on board we keep only food that is vegan + organic
+1. rotate food stocks (use oldest first)
+1. buy only as much as we can consume
+1. open only one container max per food type
 1. keep and eat food only in the galley or eat on deck
 1. no private food stashes
 1. no eating in cabins
