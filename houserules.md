@@ -2,8 +2,6 @@
 title: House Rules
 ---
 
-![A PERFECT WORLD](./i/title_2560.jpg)
-
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap" rel="stylesheet">
