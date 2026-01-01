@@ -15,11 +15,11 @@ h1, h2, h3 {
 }
 </style>
 
-    [![A PERFECT WORLD](./i/title_2560.jpg)](/)
+[![A PERFECT WORLD](./i/title_2560.jpg)](/)
 
 
 
-## Values
+# Values
 
 *why* we choose this journey
  
@@ -28,7 +28,7 @@ h1, h2, h3 {
 1. for Happiness
 
 
-## Goals
+# Goals
 
 *what* we want to achieve or maintain - these are specific and measurable
 
@@ -41,7 +41,7 @@ h1, h2, h3 {
 1. Go on **Missions**: render humanitarian assistance, as the location and weather allow it
 
 
-## Principles
+# Principles
 
 *how* we achieve goals - abstract rules
 
@@ -100,7 +100,7 @@ h1, h2, h3 {
 1. we follow rules until we improve them
 
 
-## House Rules
+# House Rules
 
 specific rules and instructions
 
