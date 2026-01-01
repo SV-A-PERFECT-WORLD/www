@@ -15,6 +15,10 @@ h1, h2, h3 {
 }
 </style>
 
+    [![A PERFECT WORLD](./i/title_2560.jpg)](/)
+
+
+
 ## Values
 
 *why* we choose this journey
@@ -41,22 +45,22 @@ h1, h2, h3 {
 
 *how* we achieve goals - abstract rules
 
-1. we create synergy by helping each other
-
-1. we improve our skills so that we can perform our roles safely and happily
-
-1. we enjoy the wonders of nature
+1. we admire the wonders of nature
 
 1. we respect the mercilessness of nature, including risks
+
+1. we improve our skills, so that we can perform our roles safely and happily
+
+1. we create synergy by helping each other
 
 1. we respect each other
 
 
 1. we respect the boat
 
-1. we clean the boat
-
 1. we repair the boat
+
+1. we clean the boat
 
 
 1. we travel by wind, not by engine
@@ -66,20 +70,20 @@ h1, h2, h3 {
 1. we anchor by default (rarery use marinas)
 
 
-1. we split costs for marinas
+1. we split costs for marinas (if we choose to use them)
 
 1. we split costs for food on board
 
 1. we split costs for operating the boat
 
-1. we apply *social pricing*
+1. we apply *social pricing*: richer people can contribute larger amounts
 
+
+1. we seek efficient and safe procedures
 
 1. we don't create traps
 
 1. we sort everything back into its place after use
-
-1. we seek efficient procedures
 
 
 1. we make best use of available space
@@ -101,7 +105,9 @@ h1, h2, h3 {
 specific rules and instructions
 
 1. be sceptical and critical about every rule, and follow rules until we negotiate better rules
+
 1. speak your mind, challenge any rule and make a better suggestion
+
 
 1. crew must be able to set sails, lift anchor and climb on board
 
@@ -115,6 +121,10 @@ specific rules and instructions
 
 1. clip in or move in safe places
 
+1. exercise every day
+
+1. medidate, if you have time
+
 
 1. come on time for all appointments (shifts...)
 
@@ -127,22 +137,15 @@ specific rules and instructions
 1. coil ropes when not in use
 
 
-1. ventilate cabins sufficiently (weather dependent)
-
-1. store mattress vertically while not sleeping (so that it does not rot)
-
-1. wipe cabin walls clean from condensation (remove humidity)
-
-1. wipe cabin floor clean from water (so that we can monitor water intake)
-
-
-1. cook recipies which preserve resources (water, energy)
+1. cook recipies that preserve resources (water, energy)
 
 1. cook for each other
 
 1. rotate food stocks (use oldest first)
 
-1. buy only as much as we can consume
+1. buy only as much as we can consume - avoids food waste
+
+1. buy dry / dehydrated food instead liquid (e.g. dry beans, no liquid soup) - saves weight and space and packaging
 
 1. open only one container max per food type
 
@@ -155,6 +158,15 @@ specific rules and instructions
 1. clean dishes immediately
 
 1. clean dishes with help of silicone spoon and hot water
+
+
+1. ventilate cabins sufficiently (weather dependent)
+
+1. store mattress vertically while not sleeping (so that it does not rot)
+
+1. wipe cabin walls clean from condensation (remove humidity)
+
+1. wipe cabin floor clean from water (so that we can monitor water intake)
 
 
 1. use outdoor toilet at sea, or use WC at land
@@ -184,7 +196,7 @@ Negatives, i.e. what we do **not** have on board:
 1. no shower
 1. no pressurized water
 1. no pesticides (per chosen values)
-1. fossil fuels (per chosen values)
+1. no fossil fuels (per chosen values)
 
 How rules, principles, goals and values are connected:
 
@@ -194,4 +206,4 @@ How rules, principles, goals and values are connected:
 
 - - - 
 
-2025-12-30 Version 9
+2026-01-01 Version 10
