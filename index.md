@@ -8,6 +8,9 @@ title: A PERFECT WORLD
 
 {% include values.md %}
 
+... ultimately leading to happiness and welfare for all.
+
+
 {% include goals.md %}
 
 Values and Goals further broken down into [Principles and House Rules...](./houserules)
