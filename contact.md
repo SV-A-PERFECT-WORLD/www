@@ -20,7 +20,7 @@ Want to join for a while? Here is the [boat profile](https://www.findacrew.com/b
 
 [logbook](https://touring-test.github.io/) (major tours only)
 
-Contact to the skipper [on Telegram](t.me/bogoe) or [via email](boran+the+skipper@goegetap.name)
+Contact to the skipper [on Telegram](t.me/bogoe) or [via email](mailto:boran@a-perfect.world)
 
 
 # Background
