@@ -4,11 +4,21 @@ title: House Rules
 
 [![A PERFECT WORLD](./i/title_2560.jpg)](/)
 
+Here you find a logical drilldown from values to goals to principles down to rules.
+
+Please let me explain.
+
+All these are connected. Every rule has a history or an obvious reason. Every rule supports a principle. Every principle helps to achieve a goal. Every goal supports a value.
+
+This is an attempt of Rule Utilitarianism: to maximize our collective wellbeing and to make sustainable living possible[^1]. The rules may seem strict at first glance, but they're designed to create the predictability, fairness, and resource efficiency that allow us all to thrive together in a challenging environment. I recognize that living by explicit rules can feel rigid or unempathetic — but on a boat with limited resources, shared rules actually create more freedom and less conflict than everyone making individual calculations. That said, I encourage critical thinking and actively welcome suggestions for improvement, because the goal isn't rigidity but finding the best guidelines for our shared flourishing.
+
+Where is the fun? Not *in* the rules. The fun is in our individual creativity, be it shared or private, within the limits of these rules. Accidents at sea are not fun. Scarcity or dependencies are not fun. That's why we try to offload these stress factors, for more fun and happiness on board.
 
 
 {% include values.md %}
 
 {% include goals.md %}
+
 
 # Principles
 
@@ -36,10 +46,10 @@ title: House Rules
 
 1. we cannot make reliable schedules for passages
 
-1. we anchor by default (rarery use marinas)
+1. we anchor by default (rarely use marinas)
 
 
-1. we split costs for marinas (if we choose to use them)
+1. we split costs for marinas (after we choose to use one)
 
 1. we split costs for food on board
 
@@ -77,11 +87,13 @@ specific rules and instructions
 
 1. speak your mind, challenge any rule and make a better suggestion
 
+1. ask questions, and absolutely if you need more information to perform a duty
+
 
 1. crew must be able to set sails, lift anchor and climb on board
 
 
-1. standard share of operating costs is 10€ per person per day, plus 0.10€ per NM travelled towards an agreed destination
+1. standard share of operating costs is 10€ per person per day, plus 0.10€ per NM travelled towards an agreed destination (social pricing applies)
 
 
 1. no alcohol (or other drugs) during passage or otherwise on (or before) duty
@@ -167,12 +179,20 @@ Negatives, i.e. what we do **not** have on board:
 1. no pesticides (per chosen values)
 1. no fossil fuels (per chosen values)
 
+- - -
+
 How rules, principles, goals and values are connected:
 
-![](./v/diagram.svg)
-
-[diagram source](https://observablehq.com/@bogo/a-perfect-world-boat-value-map)
+![](./v/valuemap.svg)[^2]
 
 - - - 
 
-2026-01-01 Version 10
+2026-01-05 Version 11
+
+- - - 
+
+## References
+
+[^1]: see also [https://en.wikipedia.org/wiki/Rule_utilitarianism](https://en.wikipedia.org/wiki/Rule_utilitarianism)
+
+[^2]: [diagram source](https://observablehq.com/@bogo/a-perfect-world-boat-value-map)
