@@ -27,13 +27,13 @@ Global sustainability is limited by globally limited resources such as space, wa
 
 Divide every globally limited resource by the world population, and you get the *fair share* of that resource. We, as humankind, can only continue forever, if every human keeps their consumption and impact within the *fair share*.
 
+*The philosophy behind the fair share is also known as Kant's Categorical Imperative[^2]*
+
 Global sustainability is the foundation of long-term wellbeing for everybody, since a collapsing ecosphere makes all other achievements meaningless.
 
 Take this absurd example, as a thought experiment:
 
 > Every person on Earth decided they deserved their own personal giraffe as a status symbol, so 8 billion giraffes × 34kg of leaves per day = 272 million tons of acacia leaves daily. Unfortunately, all the world's acacia trees produce only about 50 million tons of leaves annually, meaning we'd need 2,000 times more acacia forests than exist — requiring us to convert every square meter of land (including cities, oceans if we could, and Mars) into acacia plantations. The math does not compute. A personal giraffe for every person is not sustainable.
-
-*The philosophy behind the fair share is also known as Kant's Categorical Imperative[^2]*
 
 Take carbon emissions as a real example. The Paris Agreement[^3] aims to limit global warming to 2°C, which requires humanity to stay within a "carbon budget" of roughly 400 billion tonnes of CO₂ per year, worldwide. Divided equally among the world's 8 billion people, this translates to a fair share of approximately 2-3 tonnes CO₂ emissions per person per year. The current global average emissions are about 4.7 tonnes per person annually, with huge variations ranging from 1 and 15 tonnes in different parts of this world.
 
