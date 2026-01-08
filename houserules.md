@@ -2,6 +2,55 @@
 title: House Rules
 ---
 
+<style>
+
+li > p {
+  font-weight: bold
+}
+
+details > summary {
+  cursor: pointer;
+  font-weight: bold
+}
+
+details > p {
+  font-size: 80%;
+  color: #444;
+}
+
+summary.soft {
+  font-weight: normal
+}
+
+l::after {
+  content          : attr(abel);
+  display          : inline-block;
+  padding          : 2px  8px;
+  margin           : 6px;
+  border-radius    :     10px;
+  font             : 500 12px sans-serif;
+  background-color : #d9d9d9;
+}
+
+l[abel=sustainable]::after {
+  background-color : #fccde5;
+}
+l[abel=healthy]::after {
+  background-color : #b3de69;
+}
+l[abel=safe]::after {
+  background-color : #fb8072;
+}
+l[abel=Solidarity]::after {
+  background-color : #fdb462;
+}
+l[abel=Growth]::after {
+  background-color : #bebada;
+}
+
+
+</style>
+
 [![A PERFECT WORLD](./i/title_2560.jpg)](/)
 
 Here you find a logical drilldown from values to goals to principles down to rules.
@@ -13,7 +62,6 @@ All these are connected. Every rule has a history or an obvious reason. Every ru
 This is an attempt of Rule Utilitarianism: to maximize our collective wellbeing and to make sustainable living possible[^1]. The rules may seem strict at first glance, but they're designed to create the predictability, fairness, and resource efficiency that allow us all to thrive together in a challenging environment. I recognize that living by explicit rules can feel rigid or unempathetic — but on a boat with limited resources, shared rules actually create more freedom and less conflict than everyone making individual calculations. That said, I encourage critical thinking and actively welcome suggestions for improvement, because the goal isn't rigidity but finding the best guidelines for our shared flourishing.
 
 Where is the fun? Not *in* the rules. The fun is in our individual creativity, be it shared or private, within the limits of these rules. Accidents at sea are not fun. Scarcity or dependencies are not fun. That's why we try to offload these stress factors, for more fun and happiness on board.
-
 
 {% include values.md %}
 
@@ -27,6 +75,7 @@ Where is the fun? Not *in* the rules. The fun is in our individual creativity, b
 1. we admire the wonders of nature
 
 1. we respect the mercilessness of nature, including risks
+
 
 1. we improve our skills, so that we can perform our roles safely and happily
 
@@ -73,10 +122,20 @@ Where is the fun? Not *in* the rules. The fun is in our individual creativity, b
 
 1. we consume food responsibly and respectfully
 
-1. we _stock_ food that is vegan + organic, for everybody (but we can have fresh food of any diet for current crew on board)
+1. <details><summary>we <i>stock</i> food that is vegan + organic, for everybody...
+   <l abel="sustainable" />
+   <l abel="healthy" />
+   </summary>
+   <p>... and we can have fresh food of any diet for current crew on board.</p>
+   <p>Part of that logic is that we rotate stocks. You eat what we bought 2-3 months earlier. So the food stocks shall serve anybody.</p>
+   <p>Plus, unrefridgerated vegan food tends to keep better and causes less food poisoning than animal-based food.</p>
+   </details>
 
-
-1. we follow rules until we improve them
+1. <p>we follow rules until we improve them  
+   <l abel="efficient"/>
+   <l abel="safe"/>
+   <l abel="Growth"/>
+   </p>
 
 
 # House Rules
@@ -100,18 +159,32 @@ specific rules and instructions
 
 1. be ready to wear lifevest, gloves and helmet
 
-1. clip in or move in safe places
+1. <details><summary>clip in or move in safe places
+   <l abel="safe"/>
+   </summary>
+   <p>The skipper will show you safe places and clip-in points on deck</p>
 
-1. exercise every day
+1. <details><summary>come on time for all appointments
+   <l abel="Solidarity"/>
+   </summary>
+   <p>... most notably for shifts, when the previous watchkeeper and stand-by people and the skipper are counting on a hand-over or briefing with you - and in general, for the respect for each other</p> 
+   </details>
 
-1. medidate, if you have time
+1. <details><summary>bring all personal stuff for your shift to the bridge
+   <l abel="efficient"/>
+   <l abel="safe"/>
+   </summary>
+   <p>Bring all your personal stuff (life vest, clothes, drinks, snacks...) for your shift to the bridge, where you have it accessible. No visit to your cabin should be necessary during your shift.</p>
+   <p>Having protective gear available at an arm's length is a matter of safety.</p>
+   <p>Avoiding unnecessary trips to the cabin, or asking the stand-by person for assistance, is a matter of efficiency. Of course you must not hesitate to ask for help in any unforseen situation.</p></details>
 
-
-1. come on time for all appointments (shifts...)
-
-1. bring all your personal stuff (life vest, clothes, snacks...) for your shift to the bridge (no visit to cabin should be necessary)
-
-1. start a shift with all your biological needs already served (no breaks for toilet or food shall be necessary, however snacking is OK)
+1. <details><summary>start a shift with all your biological needs already served
+   <l abel="efficient"/>
+   <l abel="Solidarity"/>
+   </summary>
+   <p>No breaks for toilet or meals in the galley shall be necessary during a typical 3-hour shift.</p>
+   <p>However, snacking in the helm is OK.</p>
+   </details>
 
 1. don't step on ropes
 
@@ -153,6 +226,20 @@ specific rules and instructions
 1. use outdoor toilet at sea, or use WC at land
 
 1. en-suite toilet only for absolute emergencies
+
+1. <details><summary class="soft">exercise every day...
+   <l abel="healthy"/>
+   </summary>
+   <p>... in some way. This is not about olympic excellence.</p>
+
+   <p>I suggest that you remain in contact with your body, keep it fit for your role as a sailor, and stay healthy. Hoisting sails, lifting anchor and climbing on board shall not only be possible but be well within your comfort zone.</p>
+
+   <p>Active sailing counts as exercise. Swimming and cold exposure counts as exercise. Primal movement and contact improvisation count as exercise, for examples.</p></details>
+
+1. <details><summary class="soft">medidate, if you have time... 
+   <l abel="healthy"/>
+   </summary>
+   <p>... and meditate even more if you don't have time :-)</p>
 
 
 ## Appendix
