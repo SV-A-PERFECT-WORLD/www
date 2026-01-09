@@ -25,29 +25,54 @@ summary.soft {
 l::after {
   content          : attr(abel);
   display          : inline-block;
-  padding          : 2px  8px;
-  margin           : 6px;
+  padding          : 2px  6px;
+  margin           : 3px;
   border-radius    :     10px;
   font             : 500 12px sans-serif;
   background-color : #d9d9d9;
 }
 
-l[abel=sustainable]::after {
-  background-color : #fccde5;
+l[abel=travel]::after {
+  background-color : #8dd3c7;
 }
-l[abel=healthy]::after {
-  background-color : #b3de69;
+
+l[abel=Growth]::after {
+  background-color : #bebada;
 }
 l[abel=safe]::after {
   background-color : #fb8072;
 }
+
+
 l[abel=Solidarity]::after {
   background-color : #fdb462;
 }
-l[abel=Growth]::after {
-  background-color : #bebada;
+l[abel=healthy]::after {
+  background-color : #b3de69;
+}
+l[abel^=sustainable]::after {
+  background-color : #fccde5;
 }
 
+/* default: grey */
+
+l[abel=Freedom]::after {
+  background-color : #bc80bd;
+}
+
+/*
+ colors from: https://colorbrewer2.org/#type=qualitative&scheme=Set3&n=10
+.Set3 .q0-10{fill:rgb(141,211,199)} 
+.Set3 .q1-10{fill:rgb(255,255,179)} 
+.Set3 .q2-10{fill:rgb(190,186,218)}
+.Set3 .q3-10{fill:rgb(251,128,114)} 
+.Set3 .q4-10{fill:rgb(128,177,211)} 
+.Set3 .q5-10{fill:rgb(253,180, 98)} 
+.Set3 .q6-10{fill:rgb(179,222,105)} 
+.Set3 .q7-10{fill:rgb(252,205,229)} 
+.Set3 .q8-10{fill:rgb(217,217,217)} 
+.Set3 .q9-10{fill:rgb(188,128,189)}
+*/
 
 </style>
 
@@ -55,13 +80,16 @@ l[abel=Growth]::after {
 
 Here you find a logical drilldown from values to goals to principles down to rules.
 
-Please let me explain.
+<details markdown=1><summary class="soft">Please let me explain.</summary>
 
-All these are connected. Every rule has a history or an obvious reason. Every rule supports a principle. Every principle helps to achieve a goal. Every goal supports a value.
+All these value, goals, principles and rules are connected. Every rule has a history or an obvious reason. Every rule supports a principle. Every principle helps to achieve a goal. Every goal supports a value.
 
-This is an attempt of Rule Utilitarianism: to maximize our collective wellbeing and to make sustainable living possible[^1]. The rules may seem strict at first glance, but they're designed to create the predictability, fairness, and resource efficiency that allow us all to thrive together in a challenging environment. I recognize that living by explicit rules can feel rigid or unempathetic — but on a boat with limited resources, shared rules actually create more freedom and less conflict than everyone making individual calculations. That said, I encourage critical thinking and actively welcome suggestions for improvement, because the goal isn't rigidity but finding the best guidelines for our shared flourishing.
+This is an attempt of Rule Utilitarianism: to maximize our collective wellbeing and to make sustainable living possible[^1]. The rules may seem strict at first glance, but they're designed to create the predictability, fairness, and resource efficiency that allow us all to thrive together in a challenging environment. 
 
-Where is the fun? Not *in* the rules. The fun is in our individual creativity, be it shared or private, within the limits of these rules. Accidents at sea are not fun. Scarcity or dependencies are not fun. That's why we try to offload these stress factors, for more fun and happiness on board.
+I recognize that living by explicit rules can feel rigid or unempathetic — but on a boat with limited resources, shared rules actually create more freedom and less conflict than everyone making individual calculations. That said, I encourage critical thinking and actively welcome suggestions for improvement, because the goal isn't rigidity but finding the best guidelines for our shared flourishing.
+</details>
+
+Where is the fun? Not *in* the rules. The fun is in our individual creativity, be it shared or private, within the limits of our constraints. Accidents at sea are not fun. Scarcity or dependencies are not fun. That's why we try to offload these stress factors, for more fun and happiness on board.
 
 {% include values.md %}
 
@@ -72,47 +100,42 @@ Where is the fun? Not *in* the rules. The fun is in our individual creativity, b
 
 *how* we achieve goals - abstract rules
 
-1. we admire the wonders of nature
+1. we admire the wonders of nature <l abel="sustainable (g)" />
 
-1. we respect the mercilessness of nature, including risks
+1. we respect the mercilessness of nature, including risks <l abel="Freedom" /> <l abel="safe"/>
 
+1. we improve our skills, so that we can perform our roles together, safely and happily <l abel="Growth" /><l abel="Solidarity" />
 
-1. we improve our skills, so that we can perform our roles safely and happily
+1. we create synergy by helping each other <l abel="Solidarity" /><l abel="efficient" />
 
-1. we create synergy by helping each other
+1. we respect each other -- <l abel="Solidarity" />
 
-1. we respect each other
+1. we respect the boaty <l abel="travel" /><l abel="Freedom" /><l abel="Solidarity" />
 
+1. we repair the boat <l abel="travel" /><l abel="Freedom" /><l abel="Solidarity" />
 
-1. we respect the boat
+1. we clean the boat -- <l abel="travel" /><l abel="Freedom" /><l abel="Solidarity" />
 
-1. we repair the boat
+1. we travel by wind, not by engine <l abel="sustainable (g)" /><l abel="travel" />
 
-1. we clean the boat
+1. we cannot make reliable schedules for passages <l abel="sustainable (g)" /><l abel="travel" />
 
+1. we anchor by default (rarely use marinas) -- <l abel="Autonomy" />
 
-1. we travel by wind, not by engine
+1. we split costs for marinas (after we choose to use one) <l abel="Solidarity" />
 
-1. we cannot make reliable schedules for passages
+1. we split costs for food on board <l abel="Solidarity" />
 
-1. we anchor by default (rarely use marinas)
+1. we split costs for operating the boat <l abel="Solidarity" /><l abel="travel" />
 
+1. we seek efficient and safe procedures <l abel="Freedom" />
 
-1. we split costs for marinas (after we choose to use one)
+1. <details markdown="1"><summary>we don't create traps <l abel="safe" />
+   </summary>
+   examples: open hatches (in particular the "well"), small or large things in pathways which could be kicked accidentally or cause a person to trip
+   </details>
 
-1. we split costs for food on board
-
-1. we split costs for operating the boat
-
-1. we apply *social pricing*: richer people can contribute larger amounts
-
-
-1. we seek efficient and safe procedures
-
-1. we don't create traps
-
-1. we sort everything back into its place after use
-
+1. we sort everything back into its place after use -- <l abel="safe" /> <l abel="efficient" />
 
 1. we make best use of available space
 
@@ -123,7 +146,7 @@ Where is the fun? Not *in* the rules. The fun is in our individual creativity, b
 1. we consume food responsibly and respectfully
 
 1. <details><summary>we <i>stock</i> food that is vegan + organic, for everybody...
-   <l abel="sustainable" />
+   <l abel="sustainable (g)" />
    <l abel="healthy" />
    </summary>
    <p>... and we can have fresh food of any diet for current crew on board.</p>
@@ -131,29 +154,37 @@ Where is the fun? Not *in* the rules. The fun is in our individual creativity, b
    <p>Plus, unrefridgerated vegan food tends to keep better and causes less food poisoning than animal-based food.</p>
    </details>
 
-1. <p>we follow rules until we improve them  
-   <l abel="efficient"/>
+1. <p>we follow rules until we improve them  <l abel="efficient"/>
    <l abel="safe"/>
    <l abel="Growth"/>
    </p>
+
+1. <details markdown="1"><summary class="soft">we apply <i>social pricing</i>
+   <l abel="Solidarity"/>
+   <l abel="sustainable (i)" />
+   </summary>
+
+   In short: richer people can pay a larger contribution towards the operating cost.
+ 
+   People with less income or savings can benefit from reduced shares in operating costs.
+
+   In theory, social pricing could also fund the food for some crew members. However, I do not like the idea of a crew member who depends 100% on the boat and its social system, for all of their vital needs. They might be motivated or forced to stay with the boat, even if they disagree or otherwise do not enjoy their stay. I want adult crew members with a realistic exit strategy.
+   </details>
 
 
 # House Rules
 
 specific rules and instructions
 
-1. be sceptical and critical about every rule, and follow rules until we negotiate better rules
+1. be sceptical and critical about every rule, and follow rules until we negotiate better rules <l abel="safe"/> <l abel="Solidarity"/>
 
-1. speak your mind, challenge any rule and make a better suggestion
+1. speak your mind, challenge any rule and make a better suggestion <l abel="Growth"/>
 
-1. ask questions, and absolutely if you need more information to perform a duty
+1. ask questions, and absolutely if you need more information to perform a duty --
 
+1. crew must be able to set sails, lift anchor and climb on board --
 
-1. crew must be able to set sails, lift anchor and climb on board
-
-
-1. standard share of operating costs is 10€ per person per day, plus 0.10€ per NM travelled towards an agreed destination (social pricing applies)
-
+1. standard share of operating costs is 10€ per person per day, plus 0.10€ per NM travelled towards an agreed destination (social pricing applies) --
 
 1. no alcohol (or other drugs) during passage or otherwise on (or before) duty
 
@@ -188,8 +219,7 @@ specific rules and instructions
 
 1. don't step on ropes
 
-1. coil ropes when not in use
-
+1. coil ropes when not in use --
 
 1. cook recipies that preserve resources (water, energy)
 
@@ -211,8 +241,7 @@ specific rules and instructions
 
 1. clean dishes immediately
 
-1. clean dishes with help of silicone spoon and hot water
-
+1. clean dishes with help of silicone spoon and hot water --
 
 1. ventilate cabins sufficiently (weather dependent)
 
@@ -220,8 +249,7 @@ specific rules and instructions
 
 1. wipe cabin walls clean from condensation (remove humidity)
 
-1. wipe cabin floor clean from water (so that we can monitor water intake)
-
+1. wipe cabin floor clean from water (so that we can monitor water intake) --
 
 1. use outdoor toilet at sea, or use WC at land
 
