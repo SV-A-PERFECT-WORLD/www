@@ -99,6 +99,10 @@ I recognize that living by explicit rules can feel rigid or unempathetic — but
 
 Where is the fun? Not *in* the rules. The fun is in our individual creativity, be it shared or private, within the limits of our constraints. Accidents at sea are not fun. Scarcity or dependencies are not fun. That's why we try to offload these stress factors, for more fun and happiness on board.
 
+{% include values.md %}
+
+{% include goals.md %}
+
 # Principles
 
 *how* we achieve goals - abstract rules
