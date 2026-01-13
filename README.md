@@ -5,7 +5,10 @@
 
 ## authoring setup
 
-1. create a local Gemfile
+1. create a local Gemfile consisting of following two lines:
+
+       source "https://rubygems.org"
+       gem "github-pages", group: :jekyll_plugins
 
    this is to activate included head-custom.html which is applied via the minima theme
 
