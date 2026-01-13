@@ -16,4 +16,86 @@ a[href^="http"] {
     padding-right: 15px;
 }
 
+li > p:nth-of-type(1)
+{
+  font-weight: bold
+}
+
+details > summary {
+  cursor: pointer;
+  font-weight: bold
+}
+
+details > p 
+,
+li *:not(:first-child)
+{
+  font-size: 80%;
+  color: #444;
+}
+
+.invis { display: none }
+
+li p.soft {
+  font-weight: normal
+}
+
+l::after {
+  content          : attr(abel);
+  display          : inline-block;
+  padding          : 2px  6px;
+  margin           : 3px;
+  border-radius    :     10px;
+  font             : 500 12px sans-serif;
+  background-color : #d9d9d9;
+}
+
+l[abel=travel]::after {
+  background-color : #8dd3c7;
+}
+
+l[abel=Growth]::after {
+  background-color : #bebada;
+}
+l[abel^=safe i]::after {
+  background-color : #fb8072;
+}
+
+
+l[abel^=sol i]::after {
+  background-color : #fdb462;
+}
+
+l[abel^=sus i]::after
+,
+l[abel^=zero]::after
+{
+  background-color : #b3de69;
+}
+
+l[abel=healthy]::after
+{
+  background-color : #fccde5;
+}
+
+/* default: grey */
+
+l[abel^=free i]::after {
+  background-color : #bc80bd;
+}
+
+/*
+ colors from: https://colorbrewer2.org/#type=qualitative&scheme=Set3&n=10
+.Set3 .q0-10{fill:rgb(141,211,199)} 
+.Set3 .q1-10{fill:rgb(255,255,179)} 
+.Set3 .q2-10{fill:rgb(190,186,218)}
+.Set3 .q3-10{fill:rgb(251,128,114)} 
+.Set3 .q4-10{fill:rgb(128,177,211)} 
+.Set3 .q5-10{fill:rgb(253,180, 98)} 
+.Set3 .q6-10{fill:rgb(179,222,105)} 
+.Set3 .q7-10{fill:rgb(252,205,229)} 
+.Set3 .q8-10{fill:rgb(217,217,217)} 
+.Set3 .q9-10{fill:rgb(188,128,189)}
+*/
+
 </style>

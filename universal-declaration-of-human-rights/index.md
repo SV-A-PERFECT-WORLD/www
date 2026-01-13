@@ -1,7 +1,10 @@
 ---
+title: Universal Declaration of Human Rights
 ---
 
----
+[![A PERFECT WORLD](/i/title_2560.jpg)](/)
+
+exact copy of the UDHR follows:
 
 ---
 
@@ -197,17 +200,14 @@ Nothing in this Declaration may be interpreted as implying for any State, group 
 
 ---
 
----
-
-
 Source: <a href="https://www.un.org/en/about-us/universal-declaration-of-human-rights">https://www.un.org/en/about-us/universal-declaration-of-human-rights</a>
 
-No changes to the declaration's structure or content.
-
-Removed top annotation in grey box (which is not part of the declaration).
-
-Removed HTML styling.
+Removed top annotation in grey box from web page (which is not part of the declaration).
 
 Made Preamble collapsible for easier access to the Articles.
+
+Changed HTML styling.
+
+No changes to the declaration's structure or content.
 
 See also: <a href="https://www.un.org/sites/un2.un.org/files/2021/03/udhr.pdf">https://www.un.org/sites/un2.un.org/files/2021/03/udhr.pdf</a> with the raw declaration, with no styling beyond paragraphs.
