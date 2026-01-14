@@ -1,28 +1,14 @@
 ---
-title: Sustainable
+title: Sustainability
 ---
-
-<style>
-
-l::after {
-  content          : attr(abel);
-  display          : inline-block;
-  padding          : 2px  8px;
-  margin           : 6px;
-  border-radius    :     10px;
-  font             : 500 12px sans-serif;
-  background-color : #d9d9d9;
-}
-
-</style>
 
 [![A PERFECT WORLD](./i/title_2560.jpg)](/)
 
-# Sustainable
+# forever
 
 Sustainability is the ability to continue something for a long time[^1].
 
-There are three levels :
+There are three relevant levels for us:
 
 1. (i) the individual level: "I could do this all the time, for all of my life"
 1. (b) the boat level: "we could sail like this forever"
@@ -33,6 +19,12 @@ Individual sustainability is mostly limited by my time, my energy, my financial 
 ☑ I could, for example, practice Tai Chi every single day, with no problem. 
 
 ☒ I could also sail for 48 hours without sleep occasionally, but I can not sustain a lifestyle without rest. It would harm my body and my brain severely.
+
+---
+
+Sustainability on the boat level follows a similar logic like the individual level. We cannot literally just *sail* forever. But we can forever *sail and maintain* the boat. Maintain in parallel (every day) or in sequence (major repairs in a harbour or dry dock, every few years).
+
+Or, if you can build a boat from nothing but natural material, then you could forever *build a new boat and sail it*, and repeat. I can't build boats (yet) but I want to shift the strategy towards natural or readily available material, such as wood and rope over plastic and metal.
 
 ---
 

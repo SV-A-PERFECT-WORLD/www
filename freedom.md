@@ -4,7 +4,7 @@ title: Freedom
 
 [![A PERFECT WORLD](./i/title_2560.jpg)](/)
 
-# Freedom
+# free
 
 A simple word. Where shall we begin? Let's try this:
 
