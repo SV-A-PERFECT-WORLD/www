@@ -8,7 +8,7 @@ title: A PERFECT WORLD
 
 {% include values.md %}
 
-... ultimately leading to happiness and welfare for all.
+... ultimately leading to happiness and welfare for all. Here are [more thoughts on these 3 values](./values).
 
 
 {% include goals.md %}

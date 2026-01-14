@@ -6,8 +6,6 @@ title: House Rules
 
 Here you find a logical drilldown from values to goals to principles down to rules.
 
-> This is still a draft. The list is quite complete and I will add missing explanations for each item.
-
 <details markdown=1 id="explain"><summary class="soft">Please let me explain<span id="clickme"> <i>(click here)</i></span>.</summary>
 
 All these value, goals, principles and rules are connected. Every rule has a history or an obvious reason. Every rule supports a principle. Every principle helps to achieve a goal. Every goal supports a value.
@@ -53,7 +51,7 @@ I recognize that living by explicit rules can feel rigid or unempathetic — but
 
 1. we respect the boat 
 
-1. we repair the boat <l abel="sustainable (i)" />
+1. we repair the boat <l abel="sustainable (b)" />
 
    There is always something to repair or to improve on the boat.
 
@@ -63,7 +61,7 @@ I recognize that living by explicit rules can feel rigid or unempathetic — but
 
    -- like above --
 
-1. we travel by wind, not by engine <l abel="sustainable (g)" /><l abel="travel" />
+1. we travel by wind, not by engine <l abel="sustainable (+)" /><l abel="travel" />
 
    The small electric engines are good for anchor- and harbour manoeuvres, and not sufficient for serious travel (not for opposing strong wind or current).
 
@@ -275,7 +273,7 @@ specific rules and instructions
 
    This saves weight and space and packaging, and allows us to store more calories at the same weight.
 
-1. store food in the galley <l abel="one open container"/> <l abel="sustainable (i)" />
+1. store food in the galley <l abel="one open container"/> <l abel="rotate stocks"/> <l abel="sustainable (b)" />
 
    No private food stashes.
 
@@ -379,7 +377,7 @@ How rules, principles, goals and values are connected:
 
 - - - 
 
-2026-01-13 Version 13
+2026-01-14 Version 14
 
 - - - 
 

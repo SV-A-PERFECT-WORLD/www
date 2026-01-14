@@ -22,10 +22,11 @@ l::after {
 
 Sustainability is the ability to continue something for a long time[^1].
 
-There are two levels :
+There are three levels :
 
-1. the individual level: "I could do this all the time, for all of my life"
-1. the global level: "We, humankind, could do this forever"
+1. (i) the individual level: "I could do this all the time, for all of my life"
+1. (b) the boat level: "we could sail like this forever"
+1. (g) the global level: "We, humankind, could do this forever"
 
 Individual sustainability is mostly limited by my time, my energy, my financial budget and by my body.
 
@@ -58,11 +59,11 @@ I don't know whether that is true. I choose to believe the Paris Agreement, so I
 
 ---
 
-On board <span class="fredericka">A PERFECT WORLD</span> we practice both individual and global sustainability. 
+On board <span class="fredericka">A PERFECT WORLD</span> we practice individual, boat-level and global sustainability. 
 
 Keys to a low carbon footprint are:
 
-1. reduce energy consumption down to level that we can produce ourselves
+1. reduce energy consumption down to scale that we can produce ourselves
 1. produce energy exclusively from renewable energy sources
 1. eat a plant-based diet on most days
 
