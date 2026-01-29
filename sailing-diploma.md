@@ -1,8 +1,8 @@
 ---
-title: Pretty Good Crew Diploma
+title: A Perfect Crew Diploma
 ---
 
-# Pretty Good Crew Diploma
+# A Perfect Crew Diploma
 
 Syllabus:
 
@@ -25,7 +25,7 @@ Syllabus:
 
 - unlock rudder, tension steering lines, test hard-over
 
-- prepare foresail
+- prepare foresail, midsail[^2mast] and aftsail [^aft_like_mainsail]
 
 - lower, activate and test engines
 
@@ -53,6 +53,49 @@ Syllabus:
 - check speed and course
 
 - stop engine
+
+
+## Sailing Upwind
+
+- test highest wind angle
+
+- pick a reliable heading, pointing high
+
+- engage autohelm within limits of boatspeed, windspeed and rudder force
+
+- adjust heading to small changes in wind direction (manually or with autohelm)
+
+
+## Stopping the Boat [^2mast] [^catamaran]
+
+- head into the wind
+
+- roll-reef the foresail
+
+- center aftsail [^aft_like_mainsail]
+
+- drop or center midsail [^2mast]
+
+- lock rudder in central position at the wheel or tiller
+
+
+## Tacking
+
+- travel aftsail far windward (helps turning) [^aft_like_mainsail]
+
+- put midsail on central ("main") sheet (remove traveller sheet) [^2mast]
+
+- prepare windward foresheet (check that not stuck)
+
+- ease foresail, initiate turn windwards
+
+- tighten midsheet and aftsheet as boat turns through wind
+
+- change foresail to new leeside at wind angle ~ 30°
+
+- find new heading, likely old heading +- 100° (course +- 120°)
+
+- trim sails again
 
 
 ## Anchoring
@@ -88,4 +131,13 @@ Syllabus:
 
 - lock rudder
 
+- pack midsail with spider cord, wrap midsail peak halyard around mast [^2mast]
 
+- pack aftsail with 3 helper strings, keep halyards from mast with bungee cord
+
+
+[^2mast]: specific to a two-mast rig
+
+[^aft_like_mainsail] here a one-master's mailsail is equivalent to the Tiki's aftsail
+
+[^catamaran]: specific to a catamaran  
