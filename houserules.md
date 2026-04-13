@@ -89,17 +89,13 @@ I recognize that living by explicit rules can feel rigid or unempathetic — but
 
    The boat carries food stocks for many weeks, which we rotate (consume in sequence of "best-before-date") and re-supply.
 
-   We estimate the price of consumed food, e.g. **10 € / person / day**.
+   We estimate the price of consumed food, e.g. **15 € / person / day** (basic, mostly vegan + organic).
 
 1. we split costs for operating the boat <l abel="Solidarity" /><l abel="travel" />
 
-   The standard share of operating costs is:
+   The standard share of operating costs is 30 € / person / day.
 
-       10    € / person / day
-        +
-        0.10 € / person /  NM
-   
-   ... travelled towards an agreed destination (e.g. 600 NM from Gibraltar to Fuerteventura = 60 €, no matter how much tacking)
+   External costs e.g. for marinas or other admissions on top. Normally there are no external costs.
 
    Social pricing applies.
 
