@@ -81,9 +81,9 @@ I recognize that living by explicit rules can feel rigid or unempathetic — but
 
    Should we choose to use a harbour for convenience or as shelter in hard weather, we split the costs. 
 
-   The crew chooses a harbour consensually. 
+   The crew may choose a harbour based on consent.
 
-   The skipper chooses a harbour for safety purposes.
+   The skipper may choose a harbour for safety.
 
 1. we split costs for food on board <l abel="Solidarity" /> <l abel="Autonomy">
 
@@ -93,7 +93,7 @@ I recognize that living by explicit rules can feel rigid or unempathetic — but
 
 1. we split costs for operating the boat <l abel="Solidarity" /><l abel="travel" />
 
-   The standard share of operating costs is 30 € / person / day.
+   The standard share of operating costs is **30 € / person / day**.
 
    External costs e.g. for marinas or other admissions on top. Normally there are no external costs.
 
