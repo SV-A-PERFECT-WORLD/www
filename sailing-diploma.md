@@ -10,7 +10,7 @@ Syllabus:
 
 - looking at big picture situation 
 
-  with pressure isolines, identifygin lows and highs,
+  with pressure isolines, identifying lows and highs,
 
 - comparing weather models
 
@@ -114,7 +114,7 @@ Syllabus:
 
 - observe drift and swinging
 
-- pay out more anchor chaino
+- pay out more anchor chain
 
 - hook bridal into chain
 
@@ -138,6 +138,6 @@ Syllabus:
 
 [^2mast]: specific to a two-mast rig
 
-[^aft_like_mainsail] here a one-master's mailsail is equivalent to the Tiki's aftsail
+[^aft_like_mainsail] here a one-master's mainsail is equivalent to the Tiki's aftsail
 
 [^catamaran]: specific to a catamaran  

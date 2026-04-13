@@ -178,7 +178,7 @@ specific rules and instructions
 
    Setting sails and lifting anchor: obviously necessary to get the boat moving. I want all crew members to be skilled like a solo sailor on this boat, even when we are a larger crew than 1. 
 
-   Yes, ultimately I am accountable for all results on the boat. But this is not a charter with skipper included. We share all responsiblities.
+   Yes, ultimately I am accountable for all results on the boat. But this is not a charter with skipper included. We share all responsibilities.
 
 1. come on time for all appointments <l abel="Respect"/>
 
@@ -223,7 +223,7 @@ specific rules and instructions
 
    Typical candidates are halyards after hoisting sails. Also other long ropes such as rolling reef line or sheet must be coiled unless we expect to use them again immediately.
 
-1. cook recipies that preserve resources (water, energy) <l abel="sustainable (+)" />
+1. cook recipes that preserve resources (water, energy) <l abel="sustainable (+)" />
 
    We have some unusual ways of cooking or preparing meals on board. The induction stove is one of the more conventional ones and draws a lot of energy, which is OK for short periods of time.
 
@@ -277,7 +277,7 @@ specific rules and instructions
 
    Also, I want to have an overview of existing supplies and the rate of consumption, to predict how long supplies will last.
 
-   If you want to make sure that you have enough of your faviourite food, then let's discuss capacities together and buy enough.
+   If you want to make sure that you have enough of your favourite food, then let's discuss capacities together and buy enough.
 
 1. eat in the galley <l abel="respect the boat"/> <l abel="one open container"/>
 
@@ -329,7 +329,7 @@ specific rules and instructions
 
    Active sailing counts as exercise. Swimming and cold exposure counts as exercise. Primal movement and contact improvisation count as exercise, for examples.
 
-1. <p class="soft">medidate, if you have time... <l abel="healthy"/> </p> 
+1. <p class="soft">meditate, if you have time... <l abel="healthy"/> </p> 
 
    ... and meditate even more if you don't have time :-)
 
