@@ -143,7 +143,7 @@ I recognize that living by explicit rules can feel rigid or unempathetic — but
  
    People with less income or savings can benefit from reduced shares in operating costs.
 
-   In theory, social pricing could also fund the food for some crew members. However, I do not like the idea of a crew member who depends 100% on the boat and its social system, for all of their vital needs. They might be motivated or forced to stay with the boat, even if they disagree or otherwise do not enjoy their stay. I want adult crew members with a realistic exit strategy.
+   In theory, social pricing could also fund the food for some crew members. However, full financial dependence on the boat risks trapping someone aboard even if they'd rather leave — every crew member should have a realistic exit option.
 
 
 # House Rules
@@ -152,19 +152,17 @@ specific rules and instructions
 
 1. be sceptical long-term, and follow rules short-term <l abel="safe"/> <l abel="Solidarity"/>
 
-   Be sceptical and critical about every rule, when we have time and capacity to think about them (see following rule).
+   Be sceptical and critical about every rule. We can discuss when we have time and capacity to think about them (see following rule).
 
    Until such time, follow the existing rules on the boat. They are proven and safe.
 
 1. speak your mind, challenge any rule and make a better suggestion <l abel="Growth"/>
 
-   I do not claim to be always right. Everything can be improved. I am literally happy to receive feedback and suggestions for improvement.
+   I do not claim to be always right. Everything can be improved. I am genuinely happy to receive feedback and suggestions for improvement.
 
-   The existing rules are proven and make sense in this system of values and goals.
+   The existing rules reflect my accumulated experience in this system of people, values and goals.
 
-   If you don't agree with a particular rule, then we probably disagree already in priority of values, goals or principles. That's fine. It is just important that we discuss and identify such disagreement, so that we resolve it rather early than later.
-
-   It is unlikely that I will deviate from the existing values and goals. I might add some. Principles and rules, however, have a higher chance of improvement. Please convince me of better versions.
+   Please offer better versions.
 
 1. ask questions <l abel="safe"/> <l abel="Growth"/>
 
@@ -176,9 +174,11 @@ specific rules and instructions
 
    Just 3 examples for physical fitness, and probably representative enough for all the other tasks on board.
 
-   Setting sails and lifting anchor: obviously necessary to get the boat moving. I want all crew members to be skilled like a solo sailor on this boat, even when we are a larger crew than 1. 
+   Every crew member should be skilled like a solo sailor on this boat, even when we sail as a larger crew.
 
-   Yes, ultimately I am accountable for all results on the boat. But this is not a charter with skipper included. We share all responsibilities.
+   Setting sails and lifting anchor: obviously necessary to get the boat moving. 
+   
+   While the skipper carries final accountability, this is not a crewed charter. We share all responsibilities.
 
 1. come on time for all appointments <l abel="Respect"/>
 
@@ -275,17 +275,17 @@ specific rules and instructions
 
    We share everything on the boat. Food is no exception.
 
-   Also, I want to have an overview of existing supplies and the rate of consumption, to predict how long supplies will last.
+   Keeping the logistics of food central in the galley helps maintain an overview of existing supplies and the rate of consumption, so that we can predict how long supplies will last and keep the shopping list up to date.
 
    If you want to make sure that you have enough of your favourite food, then let's discuss capacities together and buy enough.
 
-1. eat in the galley <l abel="respect the boat"/> <l abel="one open container"/>
+1. eat in the galley or in safe areas on deck <l abel="respect the boat"/> <l abel="one open container"/>
 
    No eating in cabins.
 
-   I want to centralize the logistics of food in the galley (see previous rule) and I appreciate shared meals.
+   Shared cooking and shared meals — once a day or integrated into the shift schedule — are a chance for a social come-together.
 
-   I do not want to clean a mess in your cabin.
+   It also prevents mess from spreading to sleeping areas.
 
 1. clean dishes immediately <l abel="sort things"/>
 
@@ -293,11 +293,11 @@ specific rules and instructions
 
 1. clean dishes with help of silicone spoon and hot water <l abel="sustainable (+)" />
 
-   You will be surprise how little food remains on plates, pots or pans after wiping them with a silicone spoon.
+   You will be surprised how little food remains on plates, pots or pans after wiping them with a silicone spoon.
 
    This has two positive effects at the same time: wasting less food, and simpler cleaning procedure. Actually we never have to fill the whole sink with soapy water.
 
-   Saving the extra spoonful of food is not so much about the absolute mass. We would still be within our fair share if we wasted that. It is more about the mindfulness towards precious resources.
+   Saving the extra spoonful of food is not so much about the absolute mass. We could probably afford the waste. It is about the mindfulness towards precious resources.
 
 1. ventilate cabins sufficiently <l abel="respect the boat"/>
 
@@ -319,7 +319,7 @@ specific rules and instructions
 
    We don't pollute beaches or bays.
 
-   The in-suite toilet is only for absolute emergencies. I do not like to carry our shit around on the boat, with the smell being slowly released around our bedrooms.
+   The inside toilet is only for absolute emergencies. Carrying sewage on the boat affects air quality and comfort for everyone on board, in particular inside the double cabin.
 
 1. <p class="soft">exercise every day...         <l abel="healthy"/> <p> 
 
@@ -359,7 +359,7 @@ Most precious resource on board:
 
 - - -
 
-Please note that this system of rules is designed for life at sea. While on anchor or moored, stress and risks are lower and we have more time available. Some rules might not be as relevant while moored, compared to sailing. Yet I want to keep the same standard rules for every situation.
+Please note that this system of rules is designed for life at sea. While on anchor or moored, stress and risks are lower and we have more time available. Some rules might not be as relevant while moored, compared to sailing. Keeping the same standard rules for every situation is simple and safe. While being moored, we have more tolerance and capacity for adaptions.
 
 - - -
 
