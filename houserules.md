@@ -10,9 +10,13 @@ Here you find a logical drilldown from values to goals to principles down to rul
 
 All these value, goals, principles and rules are connected. Every rule has a history or an obvious reason. Every rule supports a principle. Every principle helps to achieve a goal. Every goal supports a value.
 
-This is an attempt of Rule Utilitarianism: to maximize our collective wellbeing and to make sustainable living possible[^1]. The rules may seem strict at first glance, but they're designed to create the predictability, fairness, and resource efficiency that allow us all to thrive together in a challenging environment. 
+These rules are designed to maximize collective wellbeing, safety and sustainability. They may seem strict at first glance, but they're designed to create the predictability, fairness, and resource efficiency that allow us all to thrive together in a challenging environment. 
+
+Our decision-making model follows a clear distinction: We use consent for all non-safety decisions (like destination planning or daily routines). In safety-critical moments, the skipper has final authority. This ensures that "every
+voice matters" doesn't compromise "everyone stays safe."
 
 I recognize that living by explicit rules can feel rigid or unempathetic — but on a boat with limited resources, shared rules actually create more freedom and less conflict than everyone making individual calculations. That said, I encourage critical thinking and actively welcome suggestions for improvement, because the goal isn't rigidity but finding the best guidelines for our shared flourishing.
+
 </details>
 
 {% include values.md %}
@@ -378,8 +382,6 @@ How rules, principles, goals and values are connected:
 - - - 
 
 ## References
-
-[^1]: see also [https://en.wikipedia.org/wiki/Rule_utilitarianism](https://en.wikipedia.org/wiki/Rule_utilitarianism)
 
 [^2]: [diagram source](https://observablehq.com/@bogo/a-perfect-world-boat-value-map)
 

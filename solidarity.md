@@ -22,4 +22,4 @@ It is this spirit of connection -- both aboard and with the wider world -- that 
 
 ---
 
-[Sustainability](./sustainable) (global level) is a direct consequence of solidarity. Staying within our fair share of resources is solidarity with the current population. Preserving resources for future generations is solidarity with those to come.
+Our commitment to [Sustainability](./sustainable) (global level) is one expression of solidarity. Staying within our fair share of resources is solidarity with the current global population. Preserving resources for future generations is solidarity with those to come.

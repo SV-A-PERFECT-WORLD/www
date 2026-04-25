@@ -38,6 +38,12 @@ In the triad of our core values (Solidarity, Sustainability & Freedom) I am temp
 
 ---
 
+Choosing to live within communal rules does involve real trade-offs. The freedom gained (movement, autonomy, off-grid independence) is traded against some freedom lost (individual routines, private resources, personal schedule). 
+
+Finding the right balance is an ongoing process. You are invited to bring your perspective.
+
+---
+
 
 ## References
 
@@ -45,4 +51,4 @@ In the triad of our core values (Solidarity, Sustainability & Freedom) I am temp
 
 [^2]: For example, see: [Universal Declaration of Human Rights (UDHR), Article 13](./universal-declaration-of-human-rights#article-13) (copy on this website)
 
-[^camus]: Attributed to Albert Camus, French philosopher and author (1913-1960)
+[^camus]: Widely attributed to Albert Camus, but unverified. The quote does not appear in his published works.

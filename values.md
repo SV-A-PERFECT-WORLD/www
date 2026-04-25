@@ -6,13 +6,13 @@ title: Solidarity, Sustainability, Freedom
 
 # our Values
 
-Why choose Solidarity, Sustainability and Freedom as our 3 core values?
+Why choose Solidarity, Sustainability and Freedom as core values?
 
-Here is a top-down explanation[^topdown]. First let me quote another, more famous motto:
+First let me quote another great motto:
 
-> Liberté, Égalité, Fraternité
+> Liberté, Égalité, Fraternité *(freedom, equality, brotherhood)*
 
-... which I also like. We have 66% overlap.
+We have 66% overlap.
 
 
 ## What We Share
@@ -38,9 +38,11 @@ We've established (imperfectly but genuinely) that equality and human rights are
 
 ### Why Equality Remains Present
 
+Sustainability must now stand as its own pillar because it addresses both our boat-level survival (managing finite water, energy, food, space) and our global responsibility (living within our fair share, minimizing our impact on communities and ecosystems we encounter).
+
 Equality doesn't disappear from our values -- it's logically inherent in solidarity. True mutual support and collective care require fairness and respect for each person's dignity and needs. This is why we practice social pricing, share all responsibilities, and ensure every voice matters in our decisions.
 
-But sustainability must now stand as its own pillar because it addresses both our boat-level survival (managing finite water, energy, food, space) and our global responsibility (living within our fair share, minimizing our impact on communities and ecosystems we encounter).
+However, equality on a boat coexists with a safety hierarchy. We use consent for non-safety decisions. In safety-critical moments, the skipper decides.
 
 ## Two Triads, Two Eras
 
@@ -48,10 +50,7 @@ The French motto addressed the crises of their time. Our values address the cris
 
 ---
 
-*Liberté, Égalité, Fraternité* inspired revolutions and constitutions across centuries.
+**Liberté, Égalité, Fraternité** inspired revolutions and constitutions across centuries.
 
-*Solidarity, Sustainability and Freedom* guides how we sail, live, and engage with the world.
+**Solidarity, Sustainability and Freedom** guides how we sail, live, and engage with the world.
 
----
-
-[^topdown]: *ask me about the bottom-up explanation*
