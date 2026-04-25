@@ -42,7 +42,7 @@ Sustainability must now stand as its own pillar because it addresses both our bo
 
 Equality doesn't disappear from our values -- it's logically inherent in solidarity. True mutual support and collective care require fairness and respect for each person's dignity and needs. This is why we practice social pricing, share all responsibilities, and ensure every voice matters in our decisions.
 
-However, equality on a boat coexists with a safety hierarchy. We use consent for non-safety decisions. In safety-critical moments, the skipper decides.
+However, equality on a boat coexists with a safety hierarchy. We use consent for non-safety decisions. In safety-critical moments, the skipper[^skipper] decides.
 
 ## Two Triads, Two Eras
 
@@ -54,3 +54,4 @@ The French motto addressed the crises of their time. Our values address the cris
 
 **Solidarity, Sustainability and Freedom** guides how we sail, live, and engage with the world.
 
+[^skipper]: **skipper** is a role, not a person
