@@ -28,9 +28,11 @@ When I travel on the off-grid boat, free to choose when and where I make contact
 
 ---
 
-Autonomy, based on the boat as a self-sufficient off-grid unit, remains a central goal for me.
+Autonomy, based on the boat as a self-sufficient off-grid unit, remains a central goal for me. 
 
-It allows us to travel -- exercise our right to freedom of movement. Thanks to autonomy, we can stay at sea or at anchor for weeks or even months. We have the freedom to choose the destinations that we visit.
+It allows us to travel long stretches and stay in remote places without depending on vulnerable or harmful supply chains (like fossil gas or oil). I acknowledge that a high-tech boat carries an inherent "Global North privilege." We try to use this privilege responsibly: by practicing a voluntary minimalism that is often closer to the global average than to Western luxury.
+
+Autonomy is not intended to minimize contact with coastal communities; it is intended to ensure that when we do engage, we do so out of choice and respect, rather than out of a dependency on their resources. This allows us to exercise our freedom of movement while staying mindful of our impact.
 
 ---
 
