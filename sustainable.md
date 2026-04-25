@@ -45,9 +45,7 @@ Take this absurd example, as a thought experiment:
 Take carbon emissions as a real example. 
 In 2025, every person caused 4.7 tonnes of carbon emissions, averaged across the world.
 
-People who wrote the Paris Agreement[^3] assume that we need to reduce carbon emissions worldwide to 2-3 tonnes per person and year. Otherwise the climate will continue to heat up and the biosphere will collapse. 
-
-I don't know whether that is true. I choose to believe the Paris Agreement, so I assume that each and anybody has a fair share of 2-3 tonnes of carbon emissions to spend, annually.
+The Paris Agreement[^3] — based on climate modelling — sets 2-3 tonnes per person per year as the threshold for avoiding catastrophic warming. I take this as the working figure for our fair share of carbon emissions.
 
 ---
 
