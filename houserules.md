@@ -51,7 +51,11 @@ I recognize that living by explicit rules can feel rigid or unempathetic — but
 
    Learning and improving skills means personal growth for each crew member.
 
-   Performing a greater set of roles supports the rest of the crew.
+   Performing a greater set of roles supports the rest of the crew and the wider global community.
+
+1. we act as an active part of the maritime safety net <l abel="Solidarity" />
+
+   We keep ourselves and the boat prepared for spontaneous Search and Rescue (SAR) operations, following standards and best practices by the International Maritime Organization (IMO), other Intergovernmental (IGO) and Nongovernmental (NGO) rescue organizations.
 
 1. we respect the boat 
 
@@ -173,6 +177,20 @@ specific rules and instructions
    Ask questions any time, and absolutely if you need more information to perform a duty.
 
    In particular, always contact the skipper if something unusual happens during your watch.
+
+1. we plan for refugee routes <l abel="Solidarity" /> <l abel="safe" />
+
+   During passage planning, we research known refugee routes to maximize our chance of being in a position to provide assistance.
+
+1. we stop for distress <l abel="Solidarity" /> <l abel="safe" />
+
+   We stop for any vessel or person in distress. 
+
+   As a minimum, we remain on scene to provide communication and coordination with MRCC and nearby ships, in case where intervention is beyond our capacity in a given situation.
+
+1. we stop for drifting garbage <l abel="sustainable (g)" /> <l abel="safe" />
+
+   We treat its recovery as a Person-Over-Board (MOB) exercise to keep our rescue skills sharp (and the ocean clean).
 
 1. crew must be able to set sails, lift anchor and climb on board <l abel="safe"/>
 
@@ -397,14 +415,18 @@ function hide()
   document.querySelectorAll('#clickme'              ).forEach(item => item.classList.remove('invis'));
 }
 
-hide();
+function show()
+{
+      document.querySelectorAll('.invis'  ).forEach(item => item.classList.remove('invis'));
+      document.querySelectorAll('#clickme').forEach(item => item.classList.add('invis'));
+}
 
 const details = document.getElementById('explain');
 
 details.addEventListener('toggle', function() {
-    if (details.open) {
-      document.querySelectorAll('.invis'  ).forEach(item => item.classList.remove('invis'));
-      document.querySelectorAll('#clickme').forEach(item => item.classList.add('invis'));
-    } else hide();
+    if (details.open)
+        show();
+    else 
+        hide();
 });
 </script>

@@ -14,11 +14,15 @@ On the boat we practice solidarity through mutual respect, shared labor, social 
 
 ---
 
-And solidarity extends beyond the boat. It connects us globally: to the communities we visit, to sailors we encounter, and to those in distress who need assistance. We travel not as tourists passing through, but as participants in a global community. 
+Solidarity extends beyond the boat. It connects us globally: to the communities we visit, to sailors we encounter, and to those in distress who need assistance. We travel not as tourists passing through, but as participants in a global community. 
 
-Our commitment to living within our global fair share of resources, and our readiness to help others at sea, are expressions of solidarity beyond our crew.
+---
 
-It is this spirit of connection -- both aboard and with the wider world -- that makes our journey not just possible, but meaningful.
+Solidarity at Sea
+
+We research known refugee routes and plan our passages to maximize the chance for providing assistance.
+
+We keep ourselves and the boat prepared to be an active, helpful presence on the water.
 
 ---
 
