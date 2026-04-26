@@ -21,4 +21,8 @@ Values and Goals further broken down into [Principles and House Rules...](./hous
 
 - - -
 
+The claim <span class="fredericka">A PERFECT WORLD</span> is both a local guideline and a global utopia. We ***are the change that we want to see in the world*** by living a seriously responsible life within the limits of our boat. We don't pretend that this solves every problem in this world — only that it points in a direction which is worth traveling.
+
+Come and join us.
+
 [Contact](./contact)
