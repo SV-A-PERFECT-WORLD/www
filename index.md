@@ -6,6 +6,8 @@ title: A PERFECT WORLD
 
 ... we must create. This is a {{ site.description }}. 
 
+A PERFECT WORLD is a utopia — and a Tiki 38 catamaran proving that it fits within 12 by 6 meters. Powered by nature and free at anchor. No diesel. Not a concept. Not a sabbatical. A permanent, working answer to the question of how to live within your fair share. These are the values that make it run:
+
 {% include values.md %}
 
 ... ultimately leading to happiness and welfare for all. Here are [more thoughts on these 3 values](./values).

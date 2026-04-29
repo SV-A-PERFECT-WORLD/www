@@ -361,12 +361,13 @@ Negatives, i.e. what we do **not** have on board:
 
 1. no schedule (see wind)
 1. no tourists (see schedule)
-1. no fridge *(but on wishlist)*
-1. no freezer *(wishlist)*
+1. no fridge
+1. no freezer
 1. no shower
 1. no pressurized water
-1. no pesticides (per chosen values)
-1. no fossil fuels (per chosen values)
+1. no pesticides
+1. no diesel or other fossil fuels
+1. no excuses
 
 Most notable limited resources on board:
 
@@ -381,7 +382,7 @@ Most precious resource on board:
 
 - - -
 
-Please note that this system of rules is designed for life at sea. While on anchor or moored, stress and risks are lower and we have more time available. Some rules might not be as relevant while moored, compared to sailing. Keeping the same standard rules for every situation is simple and safe. While being moored, we have more tolerance and capacity for adaptions.
+Please note that this system of rules is designed for life at sea. While moored, stress and risks are lower and we have more time available. Some rules might not be as relevant while moored, compared to sailing. Keeping the same standard rules for every situation is simple and safe. While being moored, we have more tolerance and capacity for adaptions.
 
 - - -
 

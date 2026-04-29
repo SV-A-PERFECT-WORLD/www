@@ -22,12 +22,11 @@
 
    render humanitarian assistance in the visited region
 
-1. Zero Emissions <l abel="sustainable (g)"/>
+1. Zero Operational Emissions <l abel="sustainable (g)"/>
 
-   be it carbon, toxic or otherwise harmful for the environment
+   be it carbon, toxic or otherwise harmful for the environment  
+   (production of the boat and equipment still has an embodied [carbon footprint](https://drive.proton.me/urls/JTAFVET6H8#oLycQMdkrwSr))
 
 1. Zero Waste <l abel="sustainable (+)"/>
 
    no wasted food, minimal trash, responsible use of each and every resource
-
-   This is sustainable globally because we stay within our global fair share, and sustainable for the boat because we maximize autonomy via minimal resource consumption.

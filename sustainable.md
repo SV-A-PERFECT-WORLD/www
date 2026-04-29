@@ -4,7 +4,7 @@ title: Sustainability
 
 [![A PERFECT WORLD](./i/title_2560.jpg)](/)
 
-# forever
+# Fair Winds -- Fair Share
 
 Sustainability is the ability to continue something for a long time[^1].
 
@@ -56,6 +56,8 @@ Keys to a low carbon footprint are:
 1. reduce energy consumption down to scale that we can produce ourselves
 1. produce energy exclusively from renewable energy sources
 1. eat a plant-based diet on most days
+
+Furthermore, reducing waste means conserving resources. Conserving limited resources on board helps global sustainability (because we stay within our fair share), and helps boat autonomy (because we can run longer on such resources).
 
 These keys are reflected in our [goals, principles and rules](./houserules) - for example: <l abel="zero waste"/> <l abel="save energy"/> <l abel="save water"/> <l abel="save food"/> <l abel="no pesticides"/> <l abel="mostly organic"/> <l abel="mostly vegan"/> <l abel="zero emissions"/> <l abel="no fossil fuels"/> <l abel="travel by wind"/>...
 
