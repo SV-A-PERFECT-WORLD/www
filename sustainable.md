@@ -61,7 +61,7 @@ Keys to a low carbon footprint are:
 
 Furthermore, reducing waste means conserving resources. Conserving limited resources on board helps global sustainability (because we stay within our fair share), and helps boat autonomy (because we can run longer on such resources).
 
-These keys are reflected in our [goals, principles and rules](./houserules) - for example: <l abel="zero waste"/> <l abel="save energy"/> <l abel="save water"/> <l abel="save food"/> <l abel="no pesticides"/> <l abel="mostly organic"/> <l abel="mostly vegan"/> <l abel="zero emissions"/> <l abel="no fossil fuels"/> <l abel="travel by wind"/>...
+These keys are reflected in our [goals, principles and rules](./principles) - for example: <l abel="zero waste"/> <l abel="save energy"/> <l abel="save water"/> <l abel="save food"/> <l abel="no pesticides"/> <l abel="mostly organic"/> <l abel="mostly vegan"/> <l abel="zero emissions"/> <l abel="no fossil fuels"/> <l abel="travel by wind"/>...
 
 ☑ Onboard we are achieving the carbon footprint goal, with about 3 tonnes CO₂ emissions per year (solo), or in a crew of 4 people with 2.2 tonnes per person per year[^4].
 

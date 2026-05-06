@@ -15,7 +15,7 @@ A PERFECT WORLD is a utopia — and a Tiki 38 catamaran proving that it fits wit
 
 {% include goals.md %}
 
-Values and Goals further broken down into [Principles and House Rules...](./houserules)
+Values and Goals further broken down into [Principles and House Rules...](./principles)
 
 - - -
 
