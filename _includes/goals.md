@@ -8,7 +8,7 @@
 
 1. Personal Growth <l abel="sustainable (i)"/> <l abel="Solidarity"/>
 
-   we constantly learn and grow, personally and together, for a well functioning and satisfying, long lasting life on board
+   we constantly learn and grow, personally and together, for a well functioning and satisfying community life on board
    
 1. Boat Autonomy <l abel="free"/>
 
@@ -27,6 +27,7 @@
    be it carbon, toxic or otherwise harmful for the environment  
    (production of the boat and equipment still has an embodied [carbon footprint](https://drive.proton.me/urls/JTAFVET6H8#oLycQMdkrwSr))
 
-1. Minmal Waste <l abel="sustainable (+)"/>
+1. Minimal Waste <l abel="sustainable (+)"/>
 
-   no wasted food, minimal trash, responsible use of each and every resource
+   no wasted food, minimal trash, re-use and re-cycle everything  
+   use each and every resource responsibly
