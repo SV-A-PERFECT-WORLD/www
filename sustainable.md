@@ -81,10 +81,11 @@ In case you wonder how you can reduce your own carbon footprint -- here is a sho
 
 While written for sailboats, the underlying logic equally applies to your own home or vehicle. The equipment may differ; the mindset doesn’t:
 
-- audit consumption
+- monitor your resource consumption
 - produce renewably
 - store wisely
 - reduce expectations
+- repeat
 
 ---
 
