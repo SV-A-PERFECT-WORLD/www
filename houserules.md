@@ -357,32 +357,35 @@ specific rules and instructions
 
 ## Appendix
 
-Negatives, i.e. what we do **not** have on board:
+Most **precious** resource on board:
 
-1. no schedule (see wind)
-1. no tourists (see schedule)
-1. no fridge
-1. no freezer
-1. no shower
-1. no pressurized water
-1. no pesticides
-1. no diesel or other fossil fuels
-1. no excuses
++ **your life**
 
-Most notable limited resources on board:
+Most notable *limited* resources on board:
 
 1. Water
 1. Food
 1. Energy
 1. Space
 
-Most precious resource on board:
+> Which of the above feel unlimited in your daily life?
 
-+ **your life**
+Negatives, i.e. what we do **not** have on board:
+
+1. no schedule (we depend on wind)
+1. no tourists (they depend on a schedule)
+1. no fridge
+1. no freezer
+1. no shower
+1. no pesticides
+1. no diesel or other fossil fuels
+1. no excuses
+
+> Sure, we could add some (not all) of the above to the boat. A fridge or a shower could be nice and still sustainable options. The current list just reflects our state of experimenting with habits and minimalism. 
 
 - - -
 
-Please note that this system of rules is designed for life at sea. While moored, stress and risks are lower and we have more time available. Some rules might not be as relevant while moored, compared to sailing. Keeping the same standard rules for every situation is simple and safe. While being moored, we have more tolerance and capacity for adaptions.
+Please note that this system of houserules is designed for life at sea. While moored, stress and risks are lower and we have more time available. Some rules might not be as relevant while moored, compared to sailing. Keeping the same standard rules for every situation is simple and safe. While being moored, we have more tolerance and capacity for adaptions.
 
 - - -
 

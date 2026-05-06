@@ -53,15 +53,17 @@ On board <span class="fredericka">A PERFECT WORLD</span> we practice individual,
 
 Keys to a low carbon footprint are:
 
-1. reduce energy consumption down to scale that we can produce ourselves
-1. produce energy exclusively from renewable energy sources
+1. reduce energy consumption towards a scale that we can produce locally
+1. harvest energy from renewable energy sources
 1. eat a plant-based diet on most days
+
+> This logic works everywhere. The degree of autonomy depends on your situation. The principle holds.
 
 Furthermore, reducing waste means conserving resources. Conserving limited resources on board helps global sustainability (because we stay within our fair share), and helps boat autonomy (because we can run longer on such resources).
 
 These keys are reflected in our [goals, principles and rules](./houserules) - for example: <l abel="zero waste"/> <l abel="save energy"/> <l abel="save water"/> <l abel="save food"/> <l abel="no pesticides"/> <l abel="mostly organic"/> <l abel="mostly vegan"/> <l abel="zero emissions"/> <l abel="no fossil fuels"/> <l abel="travel by wind"/>...
 
-☑ Already today the crew on board achieves the carbon footprint goal, with about 3 tonnes CO₂ emissions per year (solo), or in a crew of 4 people with 2.2 tonnes per person per year[^4].
+☑ Onboard we are achieving the carbon footprint goal, with about 3 tonnes CO₂ emissions per year (solo), or in a crew of 4 people with 2.2 tonnes per person per year[^4].
 
 Join us, for a short or longer while, and you will see how truly sustainable life can work for you.
 
@@ -71,12 +73,20 @@ Join us, for a short or longer while, and you will see how truly sustainable lif
 
 ---
 
-## Background
+## The Next Steps
 
-[Eco Sailboat Transition in 9 Proven Steps](https://www.linkedin.com/posts/boran-goegetap_dear-friends-sailors-or-eco-nerds-here-activity-7394884034369224704-fR-7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABIgbEBxPqIK7ed2DaRTzVpaJqcn7I13bQ) (post on LinkedIn)
+In case you wonder how you can reduce your own carbon footprint -- here is a short guide for sailors:
+
+[Eco Sailboat Transition in 12 Proven Steps](https://www.linkedin.com/pulse/eco-sailboat-transition-9-proven-steps-boran-goegetap-mpv7f/) (post on LinkedIn)
+
+While written for sailboats, the underlying logic equally applies to your own home or vehicle. The equipment may differ; the mindset doesn’t:
+
+- audit consumption
+- produce renewably
+- store wisely
+- reduce expectations
 
 ---
-
 
 ## References
 
