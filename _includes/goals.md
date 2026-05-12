@@ -16,7 +16,8 @@
 
 1. Travel <l abel="free"/>
 
-   changing location and visit new places from time to time
+   changing location and visit new places; has an active and a passive form:  
+   ***freedom to travel*** and ***freedom to stay***
 
 1. Render Assistance<l abel="Solidarity"/>
 
