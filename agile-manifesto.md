@@ -7,6 +7,9 @@ description: >-
 author: "Boran Gögetap"
 image: /i/agile-manifesto-diff-preview.png
 ---
+After re-reading the Agile Manifesto after a long while, I generalized it beyond software: same values, same principles, for any endeavor. Here comes the generalized version:
+
+<div class="manifesto" markdown="1">
 
 # Agile Manifesto, generalized
 
@@ -34,9 +37,9 @@ That is, while there is value in the items on the right, we value the items on t
 11. The best structures, understanding of needs, and designs emerge from self-organizing groups.
 12. At regular intervals, the group reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
-*Adapted from the Manifesto for Agile Software Development (2001),[^manifesto] compared side by side with the original [below](#values-side-by-side).*
+*Adapted by Boran from the Manifesto for Agile Software Development (2001),[^manifesto] compared side by side with the original [below](#values-side-by-side).*
 
----
+</div>
 
 ## Background
 
@@ -44,7 +47,7 @@ The Manifesto for Agile Software Development was written in 2001 by seventeen so
 
 I (Boran) find the agile approach so balanced and generic that it can serve many more topics.
 
-The Generalized column takes the Original Agile Manifesto beyond software. I replaced specific or technical terms in the Original with Generalized terms so that the text applies equally to a broad range of topics, such as permaculture, sailing, boatbuilding, business or spirituality. Differences <span class="generalized">in yellow</span>.
+The generalized version takes the Original Agile Manifesto beyond software. I replaced specific or technical terms in the original with generalized terms so that the text applies equally to a broad range of topics, such as permaculture, sailing, business or spirituality. Differences <span class="generalized">in yellow</span>.
 
 ## Values side by side
 
@@ -162,4 +165,17 @@ Other authors came up with similar or different mappings and evolutions of the O
 
 <style>
 .original, .generalized { background: color-mix(in srgb, yellow 30%, transparent); }
+.manifesto {
+  background: color-mix(in srgb, #f5d76e 12%, transparent);
+  border-radius: 14px;
+  box-shadow: 0 2px 10px color-mix(in srgb, currentColor 10%, transparent);
+  padding: 1.5rem 2rem;
+  margin: 1.5rem 0 2.5rem;
+  transform: rotate(-0.4deg);
+  font-family: ui-rounded, system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+.manifesto h1, .manifesto h2 { text-align: center; }
+.manifesto h2 { font-size: 1.1em; }
+.manifesto ul { list-style: none; padding: 0; text-align: center; font-size: 1.25em; }
+.manifesto > p:last-child { text-align: right; opacity: .75; }
 </style>
